@@ -1,3 +1,5 @@
 se genera api para consumo de login
 
 se finaliza api login
+
+se corrige compatibilidad de proveedor cloud azure
