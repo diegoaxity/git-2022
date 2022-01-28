@@ -1,0 +1,3 @@
+funcionalidad cerrar sesion
+
+se corrige logout usuarios
