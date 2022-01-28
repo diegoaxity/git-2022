@@ -1,3 +1,5 @@
 aqui se desarrolla la pantalla de front-end de login
 
 se agrega un moficicacion a la pantalla de login
+
+validaciones campos login
