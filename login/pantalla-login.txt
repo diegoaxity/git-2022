@@ -1,1 +1,6 @@
-funcionalidad extra login proactivo
+aqui se desarrolla la pantalla de front-end de login
+
+se agrega un modificacion a la pantalla de login
+
+validaciones campos login
+validaciones campos login
